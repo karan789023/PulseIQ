@@ -1,4 +1,4 @@
-import validateUrl from "../utils/validateUrl.js";
+import { validateUrl } from "../utils/validateurl.js";
 import { analyzeWebsiteService } from "../services/analyzeService.js";
 
 export const analyzeWebsite = async (req, res) => {
