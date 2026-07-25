@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🚀 Page Pulse
+# 🚀 PulseIQ
 
 **Analyze any website for SEO, accessibility, and performance in seconds.**
 
 A full-stack web application that audits any public webpage and generates a concise SEO report with actionable insights.
 
-**Live Demo:** <LIVE_DEMO_URL> • **GitHub:** <GITHUB_REPOSITORY_URL>
+**Live Demo:** <LIVE_DEMO_URL> • **GitHub:** <https://github.com/karan789023/PulseIQ>
 
 </div>
 
@@ -253,7 +253,7 @@ Add screenshots for:
 
 **Live Demo:** <LIVE_DEMO_URL>
 
-**GitHub Repository:** <GITHUB_REPOSITORY_URL>
+**GitHub Repository:** <https://github.com/karan789023/PulseIQ>
 
 ---
 
