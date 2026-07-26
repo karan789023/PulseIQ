@@ -6,7 +6,7 @@
 
 A full-stack web application that audits any public webpage and generates a concise SEO report with actionable insights.
 
-**Live Demo:** <LIVE_DEMO_URL> • **GitHub:** <https://github.com/karan789023/PulseIQ>
+**Live Demo:** <https://pulse-n4eqqjbp3-karanyadav73681-9029s-projects.vercel.app/> • **GitHub:** <https://github.com/karan789023/PulseIQ>
 
 </div>
 
@@ -95,6 +95,7 @@ Backend runs on:
 
 ```text
 http://localhost:5000
+https://pulseiq-1-7to7.onrender.com/
 ```
 
 ### Frontend
@@ -251,7 +252,7 @@ Add screenshots for:
 
 ## 🔗 Links
 
-**Live Demo:** <LIVE_DEMO_URL>
+**Live Demo:** <https://pulse-n4eqqjbp3-karanyadav73681-9029s-projects.vercel.app/>
 
 **GitHub Repository:** <https://github.com/karan789023/PulseIQ>
 
