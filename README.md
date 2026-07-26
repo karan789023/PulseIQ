@@ -6,7 +6,7 @@
 
 A full-stack web application that audits any public webpage and generates a concise SEO report with actionable insights.
 
-**Live Demo:** <https://pulse-n4eqqjbp3-karanyadav73681-9029s-projects.vercel.app/> • **GitHub:** <https://github.com/karan789023/PulseIQ>
+**Live Demo:** https://pulse-iq-mauve.vercel.app/
 
 </div>
 
@@ -239,21 +239,13 @@ AI tools were used to assist with brainstorming, debugging, improving error hand
 
 ---
 
-## 📸 Screenshots
 
-Add screenshots for:
-
-* Home Page
-* Analysis Dashboard
-* Error Handling Example
-* Mobile Responsive View
 
 ---
 
 ## 🔗 Links
 
-**Live Demo:** <https://pulse-n4eqqjbp3-karanyadav73681-9029s-projects.vercel.app/>
-
+**Live Demo:** https://pulse-iq-mauve.vercel.app/
 **GitHub Repository:** <https://github.com/karan789023/PulseIQ>
 
 ---
